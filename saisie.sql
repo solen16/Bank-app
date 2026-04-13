@@ -1,6 +1,6 @@
 /* SCRIPT DE SAISIE */
 
-SPOOL "C:\temp\PRJ_PISE_SOIDIKI_CRISTOVAO_saisie.log"
+SPOOL "C:\temp\saisie.log"
 
 /* TABLE STATUT_OPERATION */ 
 INSERT INTO STATUT_OPERATION (id_statutoperation, libelle_statutoperation) VALUES (1, 'En Cours');
