@@ -1,6 +1,6 @@
 /*----------------- SCRIPT DE CREATION DE LA BASE DE DONNEES -------------------------------------*/
 
-SPOOL "C:\temp\PRJ_PISE_SOIDIKI_CRISTOVAO_create.log"
+SPOOL "C:\temp\create.log"
 
 /*-------------------- CREATION DU SCHEMA LCP et des schémas des agences----------------------  */
 
