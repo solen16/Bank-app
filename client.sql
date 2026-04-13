@@ -1,6 +1,6 @@
 /* SCRIPT DE SELECTION D'INFORMATIONS SUR UN CLIENT  */ 
 
-SPOOL "C:\temp\PRJ_PISE_SOIDIKI_CRISTOVAO_client.log"
+SPOOL "C:\temp\client.log"
 
 /* Consultation des transactions sur un compte */ 
 connect LCPPARIS05/LCPPARIS05
