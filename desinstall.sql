@@ -1,6 +1,6 @@
 /*---------- SCRIPT DE DESINSTALLATION --------------------*/ 
 
-SPOOL "C:\temp\PRJ_PISE_SOIDIKI_CRISTOVAO_desinstall.log"
+SPOOL "C:\temp\desinstall.log"
 
 
 /* Suppression des synonymes pour chaque agence */
